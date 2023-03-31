@@ -1,0 +1,15 @@
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/obj/Debug/net6.0/Задача012.csproj.AssemblyReference.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/obj/Debug/net6.0/Задача012.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/obj/Debug/net6.0/Задача012.AssemblyInfoInputs.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/obj/Debug/net6.0/Задача012.AssemblyInfo.cs
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/obj/Debug/net6.0/Задача012.csproj.CoreCompileInputs.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/bin/Debug/net6.0/Задача012
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/bin/Debug/net6.0/Задача012.deps.json
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/bin/Debug/net6.0/Задача012.runtimeconfig.json
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/bin/Debug/net6.0/Задача012.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/bin/Debug/net6.0/Задача012.pdb
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/obj/Debug/net6.0/Задача012.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/obj/Debug/net6.0/refint/Задача012.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/obj/Debug/net6.0/Задача012.pdb
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/obj/Debug/net6.0/Задача012.genruntimeconfig.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар2/Задача012/obj/Debug/net6.0/ref/Задача012.dll
